@@ -1,0 +1,15 @@
+{
+  "name": "kido-authflow",
+  "version": "0.0.1",
+  "description": "Kidozen Authentication flow for Node.js",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "request": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kidozen/node-kido-authflow.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
